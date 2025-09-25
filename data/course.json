@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "2ce51b77-e348-fa35-7038-843a26c2d6da",
+  "instructors": {
+    "content": [
+      "c0c2e962-e5e4-0a66-87c2-640ab10e35a1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ee3f4633-9213-95da-e83a-40dfea6c7b0f",
+    "website": "21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005"
+  },
+  "course_title": "Power: Interpersonal, Organizational and Global Dimensions",
+  "course_description": "Using examples from anthropology and sociology alongside classical and contemporary social theory, this course explores the nature of dominant and subordinate relationships, types of legitimate authority, and practices of resistance. The course also examines how we are influenced in subtle ways by the people around us, who makes controlling decisions in the family, how people get ahead at work, and whether democracies, in fact, reflect the \"will of the people.\"\n",
+  "department_numbers": [
+    "21A",
+    "17"
+  ],
+  "extra_course_numbers": "17.045J",
+  "primary_course_number": "21A.245J",
+  "course_image_thumbnail": {
+    "content": "e1533ff5-5b00-2fb3-4b01-088c4b6354b5",
+    "website": "21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "801d8a52-3bce-4531-8105-0eaf14ab6905",
+  "site_short_id": "21a.245j-fall-2005",
+  "site_url_path": "courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005",
+  "title": "Course Metadata"
+}
