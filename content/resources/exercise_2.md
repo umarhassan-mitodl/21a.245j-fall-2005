@@ -5,6 +5,8 @@ description: This resource includes question for the poll with options as agree,
 file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/adc81a3fc46b88e6e4f821178b668cf5_exercise_2.pdf
 file_size: 671285
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
