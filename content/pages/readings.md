@@ -100,7 +100,7 @@ Wrong, Dennis. *Power: Its Forms, Bases and Uses*. New Brunswick, NJ: Transactio
 Leadership and Charisma: Personal and Inspirational Power
 {{< tdclose >}}{{< tdopen >}}
 
-Film: Riefenstahl, Leni. [*The Triumph of the Will*](http://imdb.com/title/tt0025913/), 1935.
+Film: Riefenstahl, Leni. {{% resource_link "202b1d2e-f79a-4945-8e5e-f62608ae1eb2" "*The Triumph of the Will*" %}}, 1935.
 
 Rustow, Dankwart A. "The Study of Leadership." In *Philosophers and Kings: Studies in Leadership*. Edited by Dankwart A. Rustow. New York, NY: George Braziller, 1970, pp. 1-32. ISBN: 9780807605394.
 
